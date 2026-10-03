@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a customizable tool library and marketplace, allowing users to enhance their projects with a variety of plugins and tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
